@@ -1,5 +1,5 @@
 ## The VGER Groups Architecture Guidelines
-[![The VGER Group](https://thevgergroup.com/hubfs/The%20VGER%20Group%202.png)](https://thevgergroup.com)
+[![The VGER Group](https://24137667.fs1.hubspotusercontent-na1.net/hubfs/24137667/linkedin-shared-link.png){ :width="50%"}](https://thevgergroup.com)
 ### What is this?
 [Architecture Guidelines](Architecture_guidelines.md) and templates are essential to people being able to deliver in a manor that works for a company. However Architectures can be difficult to generate, and hard to get buy in. 
 

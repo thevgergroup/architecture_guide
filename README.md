@@ -1,7 +1,7 @@
 ## The VGER Groups Architecture Guidelines
 [![The VGER Group](https://24137667.fs1.hubspotusercontent-na1.net/hubfs/24137667/linkedin-shared-link.png)](https://thevgergroup.com)
 ### What is this?
-[Architecture Guidelines](Architecture_guidelines.md) and templates are essential to people being able to deliver in a manor that works for a company. However Architectures can be difficult to generate, and hard to get buy in. 
+[Architecture Guidelines](Architecture_guidelines.md) and [templates](Architecture_Template.md) are essential to people being able to deliver in a manor that works for a company. However Architectures can be difficult to generate, and hard to get buy in. 
 
 Out goal is to help facilitate groups being able to develop their own architecture, understand the thought process behind it and build consensus within a team or an organization. 
 

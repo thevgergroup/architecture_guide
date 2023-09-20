@@ -22,3 +22,7 @@ Review the [Architecture Guidelines](Architecture_guidelines.md), for the sectio
 Fill out the [Architecture Template](Architecture_Template.md), and document what you currently have.
 
 For sections that you are unsure about, go back and review the guidelines document. 
+
+### License 
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)\
+This work is licensed under a ([Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)) 

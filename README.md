@@ -1,20 +1,15 @@
 ## The VGER Groups Architecture Guidelines
-
+[![The VGER Group](https://thevgergroup.com/hubfs/The%20VGER%20Group%202.png)](https://thevgergroup.com)
 ### What is this?
-Architecture documents and templates are essential to people being able to deliver in a manor that works for a company.
-Be they employees, contractors, local, distributed, overseas, remote. 
+[Architecture Guidelines](Architecture_guidelines.md) and templates are essential to people being able to deliver in a manor that works for a company. However Architectures can be difficult to generate, and hard to get buy in. 
 
-At The VGER Group we want to help facilitate groups being able to develop their own architecture, so we're opening up 
-our guidelines for Architecture, and have provided a template for creating your own.
+Out goal is to help facilitate groups being able to develop their own architecture, understand the thought process behind it and build consensus within a team or an organization. 
 
 The guidelines are focused on technology and processes for engineering and running services mostly cloud driven.
-We look at open source, and commercial solutions that solve niche problems, and provide the thinking behind the guidelines. 
-
+We look at open source solutions, and commercial solutions that solve niche problems, and provide recommendations on why to use them.
 
 ### What this is not
-This is not a guide on UX / UI Frameworks, mainly because they change too frequently and are tied more directly to the 
-skill sets of those who are providing those solutions. 
-
+This is not a guide on UX / UI Frameworks, mainly because those frameworks change too frequently
 
 ### How to use
 
@@ -26,3 +21,4 @@ For sections that you are unsure about, go back and review the guidelines docume
 ### License 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)\
 This work is licensed under a ([Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)) 
+

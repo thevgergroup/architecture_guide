@@ -9,7 +9,7 @@ The guidelines are focused on technology and processes for engineering and runni
 We look at open source solutions, and commercial solutions that solve niche problems, and provide recommendations on why to use them.
 
 ### What this is not
-This is not a guide on UX / UI Frameworks, mainly because those frameworks change too frequently
+This is not a guide on UX / UI Frameworks, mainly because those frameworks simply change too frequently
 
 ### How to use
 

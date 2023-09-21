@@ -1,15 +1,16 @@
 ## The VGER Groups Architecture Guidelines
 [![The VGER Group](https://24137667.fs1.hubspotusercontent-na1.net/hubfs/24137667/linkedin-shared-link.png)](https://thevgergroup.com)
 ### What is this?
-[Architecture Guidelines](Architecture_guidelines.md) and [templates](Architecture_Template.md) are essential to people being able to deliver in a manor that works for a company. However Architectures can be difficult to generate, and hard to get buy in. 
+[Architecture Guidelines](Architecture_guidelines.md) and [templates](Architecture_Template.md) play a crucial part to deliver solutions that meet a companies objectives. However, crafting robust architectures can be a daunting task and often faces resistance from stakeholders. 
 
-Out goal is to help facilitate groups being able to develop their own architecture, understand the thought process behind it and build consensus within a team or an organization. 
+Out goal is to help facilitate groups being able to develop their own architecture, understand the thought process behind it and build consensus among team members and across organizations.
 
 The guidelines are focused on technology and processes for engineering and running services mostly cloud driven.
 We look at open source solutions, and commercial solutions that solve niche problems, and provide recommendations on why to use them.
 
-### What this is not
-This is not a guide on UX / UI Frameworks, mainly because those frameworks simply change too frequently
+### What we don't cover
+It's important to note that our guidelines do not encompass UX/UI frameworks or specific LLMs. 
+This omission is deliberate because the landscape of UX/UI frameworks and LLM's is evolving rapidly, making it challenging to provide any level of an enduring guide.
 
 ### How to use
 

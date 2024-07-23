@@ -9,6 +9,31 @@ This does include the tech part, but also how are the products and services bein
 Theres the concept of Conway's Law, and if the company has the capability and maturity to grow and scale.
 Some of this is beyond Technical Architecture, but not System Architecture. 
 
+- [Diligence Playbook](#diligence-playbook)
+  - [Foreword](#foreword)
+  - [Summary](#summary)
+  - [Diligence Sections](#diligence-sections)
+    - [1. Analysis of Clients, Based on Size / Sector](#1-analysis-of-clients-based-on-size--sector)
+    - [2. Analysis of Marketing / Sales Material and Pitch](#2-analysis-of-marketing--sales-material-and-pitch)
+    - [3. Product Actuals - Identifying the Gap Between Sales Pitch and Reality](#3-product-actuals---identifying-the-gap-between-sales-pitch-and-reality)
+    - [4. Customer Success](#4-customer-success)
+    - [5. Customer Support](#5-customer-support)
+    - [6. Corporate Spend and Licensing for 3rd Party Software, Hosting, Development, Data Acquisition, BI, and CRM](#6-corporate-spend-and-licensing-for-3rd-party-software-hosting-development-data-acquisition-bi-and-crm)
+    - [7. Regulation, Security Controls, Training, Posture, International Customers (e.g., EU / UK)](#7-regulation-security-controls-training-posture-international-customers-eg-eu--uk)
+    - [8. Technology Engineering, Operations, and Architecture Analysis](#8-technology-engineering-operations-and-architecture-analysis)
+    - [9. Product Owner / Management Review](#9-product-owner--management-review)
+    - [10. Technology Team Review](#10-technology-team-review)
+  - [Org Analysis](#org-analysis)
+    - [Small Company \< $3MM](#small-company--3mm)
+    - [Medium Company \> $3MM – 10MM](#medium-company--3mm--10mm)
+    - [Large Company \> $10MM](#large-company--10mm)
+  - [Corporate Diligence Scoring Rubric](#corporate-diligence-scoring-rubric)
+    - [Scoring System](#scoring-system)
+  - [Technology Evaluation Rubric](#technology-evaluation-rubric)
+  - [Scoring System](#scoring-system-1)
+  - [Technical Asset \& Vendor Evaluation](#technical-asset--vendor-evaluation)
+  - [Consolidated Scoring](#consolidated-scoring)
+  - [Scoring System](#scoring-system-2)
 
 ### Summary
 

@@ -3,6 +3,9 @@
 ### What is this?
 [Architecture Guidelines](Architecture_guidelines.md) and [templates](Architecture_Template.md) play a crucial part to deliver solutions that meet a companies objectives. However, crafting robust architectures can be a daunting task and often faces resistance from stakeholders. 
 
+[Diligence Playbook](Diligence_playbook.md) on occasion it's necessary to have process change, especially when there is a need to grow a company. Often a great way to accomplish buy in is to look at how well a company can perform with a diligence review, sometimes known as a top-down review. A company is more than the software it produces, it's a set of integration points, responsibilities and feedback loops that should work together. 
+To help identify that, we've published our playbook on what we look for in a top-down diligence review.
+
 Out goal is to help facilitate groups being able to develop their own architecture, understand the thought process behind it and build consensus among team members and across organizations.
 
 The guidelines are focused on technology and processes for engineering and running services mostly cloud driven.
